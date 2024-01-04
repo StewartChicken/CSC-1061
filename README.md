@@ -1,2 +1,1 @@
-# CSC-1061
-Data Structures with C++
+This folder will contain all my work for the data structures class I will be taking at Front Range Community College over the summer (2023). The official course number is CSC1061, computer science 2. This class covers various data structures concepts and implementations within C++.
